@@ -1,0 +1,12 @@
+i=int(input("enter any number "))
+
+if i>0:
+
+    print("Postive number")
+
+else:
+
+    print("Negative number")
+    output:
+    Enter any number 123
+    positive
